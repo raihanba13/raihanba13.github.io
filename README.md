@@ -10,7 +10,7 @@
 
 ## Education
 **M.Sc., Computer Simulation in Science	| Bergische University Wuppertal, Germany (_July 2024_)**	 
-
+<br/>
 **B.Sc., Mechanical Engineering | Military Institutite of Science and Technology, Bangladesh (_March 2019_)**
 
 ## Work Experience
