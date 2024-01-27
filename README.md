@@ -2,18 +2,11 @@
 
 #### Technical Skills: Python, CPP, SQL, AWS, Azure, MATLAB, Git, Azure
 
-## Recent Adventure
-**AWS Certified Cloud Practitioner | Oct 2023**
-
-
-**Preparing for AWS Certified Solutions Architect & Azure DP-203 Exams | March 2024**
-
-
-**Parallelization of The Inversion of a Dirac Matrix | Jan 2023**
-
-
-**Exploring Go and Julia Programming**
-
+## Recent Activity
+###### AWS Certified Cloud Practitioner | Oct 2023
+###### Preparing for AWS Certified Solutions Architect & Azure DP-203 Exams | March 2024
+###### Parallelization of The Inversion of a Dirac Matrix | Jan 2023
+###### Exploring Go and Julia Programming
 
 ## Education
 **M.Sc., Computer Simulation in Science	| Bergische University Wuppertal, Germany (_July 2024_)**	 
