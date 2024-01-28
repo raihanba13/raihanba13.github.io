@@ -34,8 +34,11 @@
 - Successfully completed 135 projects on Fiverr, specializing in backend/API development, web automation, data mining, and bot creation. Proficient in Python, Pandas, DRF, Chalice, Flask, Selenium, Tkinter, Matplotlib, Seaborn, and Plotly.
 
 ## Project, Certification,Presentation
-- [Presentation on Krylov Subspace, CG Method and Preconditioning](https://uni-wuppertal.sciebo.de/s/0v8m7BsGatR6KhF) | Apr 2023 \
-- Data Integration with Microsoft Azure Data Factory | Jan 2024 \
+<ul>
+  <li>[Presentation on Krylov Subspace, CG Method and Preconditioning](https://uni-wuppertal.sciebo.de/s/0v8m7BsGatR6KhF) | Apr 2023 </li>
+  <li>Data Integration with Microsoft Azure Data Factory | Jan 2024</li>
+</ul>
+
 - Data Storage in Microsoft Azure | Dec 2023 \
 - Microsoft Azure for Data Engineering | Aug 2023 \
 - HPC, Fortran & CPP Classwork | Mar 2023 \
