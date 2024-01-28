@@ -34,21 +34,21 @@
 - Successfully completed 135 projects on Fiverr, specializing in backend/API development, web automation, data mining, and bot creation. Proficient in Python, Pandas, DRF, Chalice, Flask, Selenium, Tkinter, Matplotlib, Seaborn, and Plotly.
 
 ## Project, Certification,Presentation
-- [Presentation on Krylov Subspace, CG Method and Preconditioning](https://uni-wuppertal.sciebo.de/s/0v8m7BsGatR6KhF) | Apr 2023
-- Data Integration with Microsoft Azure Data Factory | Jan 2024 <br/>
-- Data Storage in Microsoft Azure | Dec 2023 <br/>
-- Microsoft Azure for Data Engineering | Aug 2023 <br/>
-- HPC, Fortran & CPP Classwork | Mar 2023 <br/>
-- Presentation on Model Order Reduction, Von Neumann stability analysis, Krylov subspace | Apr 2023 <br/>
-- Database Architecture, Scale, and NoSQL with ElasticsearchDatabase Architecture, Scale, and NoSQL with Elasticsearch | Coursera | Feb 2022 <br/>
-- JSON and Natural Language Processing in PostgreSQLJSON and Natural Language Processing in PostgreSQL | Coursera | Feb 2022 <br/>
-- PostgreSQL for EverybodyPostgreSQL for Everybody | Coursera | Feb 2022 <br/>
-- PostgreSQL for EverybodyPostgreSQL for Everybody | Coursera | Feb 2022 <br/>
-- Innovation Through Design: Think, Make, Break, RepeatInnovation Through Design: Think, Make, Break, Repeat | Coursera | Dec 2021 <br/>
-- Intermediate PostgreSQLIntermediate PostgreSQL | Coursera | Jul 2021 <br/>
-- Database Design and Basic SQL in PostgreSQLDatabase Design and Basic SQL in PostgreSQL | Coursera | Jun 2021 <br/>
-- 3D Model Creation with Autodesk Fusion 3603D Model Creation with Autodesk Fusion 360 | Coursera | Mar 2021 <br/>
-- Autodesk Fusion 360 Integrated CAD/CAM/CAEAutodesk Fusion 360 Integrated CAD/CAM/CAE | Coursera | Dec 2020 <br/>
-- Intro to Digital Manufacturing with Autodesk Fusion 360Intro to Digital Manufacturing with Autodesk Fusion 360 | Coursera | Nov 2020 <br/>
+- [Presentation on Krylov Subspace, CG Method and Preconditioning](https://uni-wuppertal.sciebo.de/s/0v8m7BsGatR6KhF) | Apr 2023 \
+- Data Integration with Microsoft Azure Data Factory | Jan 2024 \
+- Data Storage in Microsoft Azure | Dec 2023 \
+- Microsoft Azure for Data Engineering | Aug 2023 \
+- HPC, Fortran & CPP Classwork | Mar 2023 \
+- Presentation on Model Order Reduction, Von Neumann stability analysis, Krylov subspace | Apr 2023 \
+- Database Architecture, Scale, and NoSQL with ElasticsearchDatabase Architecture, Scale, and NoSQL with Elasticsearch | Coursera | Feb 2022 \
+- JSON and Natural Language Processing in PostgreSQLJSON and Natural Language Processing in PostgreSQL | Coursera | Feb 2022 \
+- PostgreSQL for EverybodyPostgreSQL for Everybody | Coursera | Feb 2022 \
+- PostgreSQL for EverybodyPostgreSQL for Everybody | Coursera | Feb 2022 \
+- Innovation Through Design: Think, Make, Break, RepeatInnovation Through Design: Think, Make, Break, Repeat | Coursera | Dec 2021 \
+- Intermediate PostgreSQLIntermediate PostgreSQL | Coursera | Jul 2021 \
+- Database Design and Basic SQL in PostgreSQLDatabase Design and Basic SQL in PostgreSQL | Coursera | Jun 2021 \
+- 3D Model Creation with Autodesk Fusion 3603D Model Creation with Autodesk Fusion 360 | Coursera | Mar 2021 \
+- Autodesk Fusion 360 Integrated CAD/CAM/CAEAutodesk Fusion 360 Integrated CAD/CAM/CAE | Coursera | Dec 2020 \
+- Intro to Digital Manufacturing with Autodesk Fusion 360Intro to Digital Manufacturing with Autodesk Fusion 360 | Coursera | Nov 2020 \
 
 
