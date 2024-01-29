@@ -39,7 +39,7 @@
   <li>Data Integration with Microsoft Azure Data Factory | Jan 2024</li>
   <li>Data Storage in Microsoft Azure | Dec 2023 </li>
   <li>Microsoft Azure for Data Engineering | Aug 2023 </li>
-  <li><a href="https://github.com/raihanba13/Portfolio/tree/main/HPC/Simulation3_Exercise_Project">HPC, </a>HPC, <a href="https://github.com/raihanba13/Portfolio/tree/main/Coursework">Fortran & CPP Classwork</a> | Mar 2023 </li>
+  <li><a href="https://github.com/raihanba13/Portfolio/tree/main/HPC/Simulation3_Exercise_Project">HPC, </a><a href="https://github.com/raihanba13/Portfolio/tree/main/Coursework">Fortran & CPP Classwork</a> | Mar 2023 </li>
   <li>Presentation on Model Order Reduction, Von Neumann stability analysis | Apr 2023 </li>
   <li>Database Architecture, Scale, and NoSQL with ElasticsearchDatabase Architecture, Scale, and NoSQL with Elasticsearch | Coursera | Feb 2022 </li>
   <li>JSON and Natural Language Processing in PostgreSQLJSON and Natural Language Processing in PostgreSQL | Coursera | Feb 2022 </li>
