@@ -35,23 +35,22 @@
 
 ## Project, Certification,Presentation
 <ul>
-  <li>[Presentation on Krylov Subspace, CG Method and Preconditioning](https://uni-wuppertal.sciebo.de/s/0v8m7BsGatR6KhF) | Apr 2023 </li>
+  <li><a href="https://uni-wuppertal.sciebo.de/s/0v8m7BsGatR6KhF">Presentation on Krylov Subspace, CG Method and Preconditioning</a> | Apr 2023 </li>
   <li>Data Integration with Microsoft Azure Data Factory | Jan 2024</li>
+  <li>Data Storage in Microsoft Azure | Dec 2023 </li>
+  <li>Microsoft Azure for Data Engineering | Aug 2023 </li>
+  <li><a href="https://github.com/raihanba13/Portfolio/tree/main/HPC/Simulation3_Exercise_Project">HPC, </a>HPC, <a href="https://github.com/raihanba13/Portfolio/tree/main/Coursework">Fortran & CPP Classwork</a> | Mar 2023 </li>
+  <li>Presentation on Model Order Reduction, Von Neumann stability analysis | Apr 2023 </li>
+  <li>Database Architecture, Scale, and NoSQL with ElasticsearchDatabase Architecture, Scale, and NoSQL with Elasticsearch | Coursera | Feb 2022 </li>
+  <li>JSON and Natural Language Processing in PostgreSQLJSON and Natural Language Processing in PostgreSQL | Coursera | Feb 2022 </li>
+  <li>PostgreSQL for EverybodyPostgreSQL for Everybody | Coursera | Feb 2022 </li>
+  <li>Innovation Through Design: Think, Make, Break, RepeatInnovation Through Design: Think, Make, Break, Repeat | Coursera | Dec 2021 </li>
+  <li>Intermediate PostgreSQLIntermediate PostgreSQL | Coursera | Jul 2021 </li>
+  <li>Database Design and Basic SQL in PostgreSQLDatabase Design and Basic SQL in PostgreSQL | Coursera | Jun 2021 </li>
+  <li>3D Model Creation with Autodesk Fusion 3603D Model Creation with Autodesk Fusion 360 | Coursera | Mar 2021 </li>
+  <li>Autodesk Fusion 360 Integrated CAD/CAM/CAEAutodesk Fusion 360 Integrated CAD/CAM/CAE | Coursera | Dec 2020 </li>
+  <li>Intro to Digital Manufacturing with Autodesk Fusion 360Intro to Digital Manufacturing with Autodesk Fusion 360 | Coursera | Nov 2020 </li>
 </ul>
 
-- Data Storage in Microsoft Azure | Dec 2023 \
-- Microsoft Azure for Data Engineering | Aug 2023 \
-- HPC, Fortran & CPP Classwork | Mar 2023 \
-- Presentation on Model Order Reduction, Von Neumann stability analysis, Krylov subspace | Apr 2023 \
-- Database Architecture, Scale, and NoSQL with ElasticsearchDatabase Architecture, Scale, and NoSQL with Elasticsearch | Coursera | Feb 2022 \
-- JSON and Natural Language Processing in PostgreSQLJSON and Natural Language Processing in PostgreSQL | Coursera | Feb 2022 \
-- PostgreSQL for EverybodyPostgreSQL for Everybody | Coursera | Feb 2022 \
-- PostgreSQL for EverybodyPostgreSQL for Everybody | Coursera | Feb 2022 \
-- Innovation Through Design: Think, Make, Break, RepeatInnovation Through Design: Think, Make, Break, Repeat | Coursera | Dec 2021 \
-- Intermediate PostgreSQLIntermediate PostgreSQL | Coursera | Jul 2021 \
-- Database Design and Basic SQL in PostgreSQLDatabase Design and Basic SQL in PostgreSQL | Coursera | Jun 2021 \
-- 3D Model Creation with Autodesk Fusion 3603D Model Creation with Autodesk Fusion 360 | Coursera | Mar 2021 \
-- Autodesk Fusion 360 Integrated CAD/CAM/CAEAutodesk Fusion 360 Integrated CAD/CAM/CAE | Coursera | Dec 2020 \
-- Intro to Digital Manufacturing with Autodesk Fusion 360Intro to Digital Manufacturing with Autodesk Fusion 360 | Coursera | Nov 2020 \
 
 
