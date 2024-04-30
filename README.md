@@ -3,9 +3,9 @@
 #### Technical Skills: Python, CPP, SQL, AWS, Azure, MATLAB, Git, Azure
 
 ## Recent Activity
-##### MSc Thesis on " Application of Inverse Modeling to determine input parameter for Fire Simulation "| July 2024<br/>
+##### MSc Thesis on " Application of Inverse Modeling to determine input parameter for Fire Simulation "| Nov 2024<br/>
 ##### AWS Certified Cloud Practitioner | Oct 2023<br/>
-##### Preparing for AWS Certified Solutions Architect & Azure DP-203 Exams | March 2024<br/>
+##### Preparing for AWS Certified Solutions Architect & Azure DP-203 Exams | May 2024<br/>
 ##### Parallelization of The Inversion of a Dirac Matrix | Jan 2023<br/>
 ##### Exploring Go and Julia Programming<br/>
 
